@@ -9,7 +9,7 @@ Amazon AWS EC2 :
 A platform where we can set up our own instance and make connections to it.         
 
 Node-RED: 
-A programming tool where we can fetch data streams and do programming work. It also has the dashboard to present insights in relation to our smart city cases.           
+A programming tool where we can fetch data streams and do programming work(using Javascript). It also has the dashboard to present insights in relation to our smart city cases.       
 
 MongoDB: 
 A database that we use to store and analyze required data.            
@@ -25,7 +25,7 @@ eg. ssh -L 1880:localhost:1880 -L 27017:localhost:27017 -i XXXX.pem.txt ec2-user
 
 eg. url:   http://localhost:1880/
 
-Then do the programming part in Node-RED and also make connections to MongoDB(the /.json file).
+Then do the programming part in Node-RED and also make connections to MongoDB(the /.json file).    using Javascript.
 
 
 # Our project work:
