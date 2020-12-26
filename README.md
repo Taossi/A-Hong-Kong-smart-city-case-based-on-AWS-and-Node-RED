@@ -28,4 +28,5 @@ eg. url:   http://localhost:1880/
 Then do the programming part in Node-RED and also make connections to MongoDB.
 
 
-![https://github.com/Taossi/A-Hong-Kong-smart-city-case-based-on-AWS-and-Node-RED/blob/main/1.png]
+![](https://github.com/Taossi/A-Hong-Kong-smart-city-case-based-on-AWS-and-Node-RED/blob/main/1.png)
+![](https://github.com/Taossi/A-Hong-Kong-smart-city-case-based-on-AWS-and-Node-RED/blob/main/2.png)
