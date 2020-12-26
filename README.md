@@ -5,10 +5,10 @@ This is also the programming assginment from HKU MSC CS COMP7503.
 
 # requirements:  
 
-# Amazon AWS EC2 : 
+Amazon AWS EC2 : 
 A platform where we can set up our own instance and make connections to it.         
 
-# Node-RED: 
+Node-RED: 
 A programming tool where we can fetch data streams and do programming work. It also has the dashboard to present insights in relation to our smart city cases.           
-# MongoDB: 
+MongoDB: 
 A database that we use to store and analyze required data.            
