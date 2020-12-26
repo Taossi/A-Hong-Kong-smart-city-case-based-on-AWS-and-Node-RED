@@ -3,7 +3,7 @@ An application that fetch data streams from https://data.gov.hk/, data analysis 
 
 This is also the programming assginment from HKU MSC CS COMP7503.
 
-# requirements:  
+# Requirements:  
 
 Amazon AWS EC2 : 
 A platform where we can set up our own instance and make connections to it.         
@@ -15,7 +15,7 @@ MongoDB:
 A database that we use to store and analyze required data.            
 
 
-# implementation:
+# Implementation:
 
 1. connect to the AWS EC2 instance(by using ssh connection)            
 
@@ -28,7 +28,7 @@ eg. url:   http://localhost:1880/
 Then do the programming part in Node-RED and also make connections to MongoDB(the /.json file).
 
 
-# our project work
+# Our project work:
 We focus on the real-time weather information of Hong Kong.  The dashboards of our project are shown in the picture below.
 ![](https://github.com/Taossi/A-Hong-Kong-smart-city-case-based-on-AWS-and-Node-RED/blob/main/1.png)
 ![](https://github.com/Taossi/A-Hong-Kong-smart-city-case-based-on-AWS-and-Node-RED/blob/main/2.png)
@@ -40,3 +40,8 @@ In Basic Weather Information, it shows the current temperature, humidity and uvi
 In Radiation & Air Quality, we firstly show the basic current radiation situation in Hong Kong. Then there is a chart showing air quality health index in every location in Hong Kong in the past 24 hours. In Rainfall part, we present the rainfall situation in 18 different places in Hong Kong during a period by a rainfall chart.
 
 Finally, in Weather Map, we show a real-time Hong Kong map with many different dots. Each dot means a place. Blue dots present current rainfall situation in this place, while green dots store the temperature information in this place. We can check each dot to see the weather detail of this place.
+
+# Thanks:
+Many thanks to my dear teammates: small Huang and small Cen (HAHAHAHAHAHAHA)~
+
+Lucky to meet you guys in HKU.
