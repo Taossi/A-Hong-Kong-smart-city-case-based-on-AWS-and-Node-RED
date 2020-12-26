@@ -15,9 +15,16 @@ MongoDB:
 A database that we use to store and analyze required data.            
 
 
-# implementation
+# implementation:
 
 1. connect to the AWS EC2 instance(by using ssh connection)            
 
 eg. ssh -L 1880:localhost:1880 -L 27017:localhost:27017 -i XXXX.pem.txt ec2-user@XX.XX.XX.XX
+
+2. connect to the Node-RED and programme
+
+eg. url:   http://localhost:1880/
+
+Then do the programming part in Node-RED and also make connections to MongoDB.
+
 
